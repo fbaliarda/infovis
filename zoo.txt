@@ -2,6 +2,8 @@ visual encodings
 position encodings
 graphical perception experiments
 Horizon Graphs
+data density
 Q-Q Plots
+partition layout
 seriation
 Parallel Coordinates

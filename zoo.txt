@@ -1,0 +1,7 @@
+visual encodings
+position encodings
+graphical perception experiments
+Horizon Graphs
+Q-Q Plots
+seriation
+Parallel Coordinates

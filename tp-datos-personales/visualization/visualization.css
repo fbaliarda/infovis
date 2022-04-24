@@ -1,0 +1,29 @@
+.presentation-font {
+    font-family: 'Rubik', sans-serif;
+}
+.presentation-title {
+    font-size: 60px;
+    font-weight: bold;
+}
+.presentation-subtitle {
+    font-size: 25px;
+    font-weight: lighter;
+}
+.author-name {
+    font-size: 25px;
+}
+.section-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-title {
+    font-size: 20px;
+}
+.card {
+    background-color: aliceblue;
+    border-radius: 10px;
+}
